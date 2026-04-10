@@ -4,7 +4,7 @@
 🚀 Interested in System Design & Problem Solving  
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Raktim-03&show_icons=true&theme=default)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Raktim-03&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=Raktim-03)
 
 ## 🔗 Connect with me
 - LinkedIn: (https://www.linkedin.com/in/raktimhandique)
