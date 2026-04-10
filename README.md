@@ -1,9 +1,9 @@
-# Hi 👋 I'm Raktim
+# Hi! I'm Raktim
 
-💻 CSE Student | Full Stack Developer  
-🚀 Interested in System Design & Problem Solving  
+A CSE Student from Tezpur University | Full Stack Developer  
+Interested in System Design & Problem Solving  
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -16,6 +16,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
-## 🔗 Connect with me
+##  Connect with me
 - LinkedIn: https://www.linkedin.com/in/raktimhandique
 - Email: raktimrhandique@gmail.com
