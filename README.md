@@ -18,4 +18,4 @@ Interested in System Design & Problem Solving
 ##  Connect with me
 - LinkedIn: https://www.linkedin.com/in/raktimhandique
 - Email: raktimrhandique@gmail.com
-- Portfolio: https://portfolio-raktim-git-main-raktimhandique1010-gmailcoms-projects.vercel.app
+- Portfolio: https://portfolio-raktim.vercel.app
