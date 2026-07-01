@@ -42,13 +42,6 @@ I build scalable web applications, backend systems, and AI-powered solutions.
 ---
 
 
-## 📈 GitHub Stats
-
-![Raktim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raktim-03&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-03&layout=compact)
-
----
 
 ##  Connect With Me
 
