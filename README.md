@@ -45,7 +45,7 @@ I build scalable web applications, backend systems, and AI-powered solutions.
 
 ##  Connect With Me
 
-- Portfolio: https://portfolio-client-209dh22nq.vercel.app/
+- Portfolio: https://portfolio-client-beta-sandy.vercel.app/
 - LinkedIn: www.linkedin.com/in/raktimhandique
 - Email: raktimrhandique@gmail.com
   
